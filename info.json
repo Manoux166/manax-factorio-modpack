@@ -1,0 +1,32 @@
+{
+ "name": "manax-factorio-modpack",
+ "version": "1.0.0",
+ "title": "manax-factorio-modpack",
+ "contact": "", 
+ "author": "Me",
+ "homepage": "",
+ "description": "",
+ "dependencies": [
+	"Fridge",
+	"Planet-Hopper",
+	"rubia",
+	"castra",
+	"artillery-visibility-2_0",
+	"vp-scale",
+	"visible-planets",
+	"Valides_Endgame",
+	"fall-of-promethea",
+	"promethium-quality",
+	"Cerys-Moon-of-Fulgora",
+	"long_stack_inserter",
+	"Moshine",
+	"maraxsis",
+	"spider-launcher",
+	"aai-programmable-vehicles",
+	"aai-vehicles-chaingunner",
+	"aai-vehicles-flame-tank",
+	"better-quality",
+	"aai-vehicles-laser-tank"
+ ],
+ "factorio_version": "2.0"
+}
