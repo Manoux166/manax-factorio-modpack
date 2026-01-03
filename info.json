@@ -1,6 +1,6 @@
 {
  "name": "manax-factorio-modpack",
- "version": "1.0.0",
+ "version": "1.0.1",
  "title": "manax-factorio-modpack",
  "contact": "", 
  "author": "Me",
@@ -22,11 +22,10 @@
 	"Moshine",
 	"maraxsis",
 	"spider-launcher",
-	"aai-programmable-vehicles",
-	"aai-vehicles-chaingunner",
 	"aai-vehicles-flame-tank",
 	"better-quality",
 	"aai-vehicles-laser-tank"
  ],
  "factorio_version": "2.0"
+
 }
