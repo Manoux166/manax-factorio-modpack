@@ -1,6 +1,6 @@
 {
  "name": "manax-factorio-modpack",
- "version": "1.0.2",
+ "version": "1.0.3",
  "title": "manax-factorio-modpack",
  "contact": "", 
  "author": "Me",
@@ -27,11 +27,13 @@
 	"aai-vehicles-laser-tank",
 	"Robocharger-Updated",
 	"PavementDriveAssistContinued",
-	"TurboBike"
+	"TurboBike",
+	"bioprocessing-tab"
  ],
  "factorio_version": "2.0"
 
 }
+
 
 
 
